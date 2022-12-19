@@ -1,0 +1,15 @@
+C:\Users\25smith5248\source\repos\Dogs\Dogs\bin\Debug\net6.0-windows\Dogs.exe
+C:\Users\25smith5248\source\repos\Dogs\Dogs\bin\Debug\net6.0-windows\Dogs.deps.json
+C:\Users\25smith5248\source\repos\Dogs\Dogs\bin\Debug\net6.0-windows\Dogs.runtimeconfig.json
+C:\Users\25smith5248\source\repos\Dogs\Dogs\bin\Debug\net6.0-windows\Dogs.dll
+C:\Users\25smith5248\source\repos\Dogs\Dogs\bin\Debug\net6.0-windows\Dogs.pdb
+C:\Users\25smith5248\source\repos\Dogs\Dogs\obj\Debug\net6.0-windows\Dogs.csproj.AssemblyReference.cache
+C:\Users\25smith5248\source\repos\Dogs\Dogs\obj\Debug\net6.0-windows\Dogs.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\25smith5248\source\repos\Dogs\Dogs\obj\Debug\net6.0-windows\Dogs.AssemblyInfoInputs.cache
+C:\Users\25smith5248\source\repos\Dogs\Dogs\obj\Debug\net6.0-windows\Dogs.AssemblyInfo.cs
+C:\Users\25smith5248\source\repos\Dogs\Dogs\obj\Debug\net6.0-windows\Dogs.csproj.CoreCompileInputs.cache
+C:\Users\25smith5248\source\repos\Dogs\Dogs\obj\Debug\net6.0-windows\Dogs.dll
+C:\Users\25smith5248\source\repos\Dogs\Dogs\obj\Debug\net6.0-windows\refint\Dogs.dll
+C:\Users\25smith5248\source\repos\Dogs\Dogs\obj\Debug\net6.0-windows\Dogs.pdb
+C:\Users\25smith5248\source\repos\Dogs\Dogs\obj\Debug\net6.0-windows\Dogs.genruntimeconfig.cache
+C:\Users\25smith5248\source\repos\Dogs\Dogs\obj\Debug\net6.0-windows\ref\Dogs.dll
